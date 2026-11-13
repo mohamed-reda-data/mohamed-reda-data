@@ -10,5 +10,5 @@ BIS student at MUST, interested in data and web development, based in Cairo, Egy
    - **[KIMIT](https://mohamed-reda-data.github.io/kimit-website/)**: Digital marketing & web development agency website (HTML, CSS, JavaScript)
 
 ## 📫 Contact
-- LinkedIn: [your-link](https://www.linkedin.com/in/mohamed-reda-800085406?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+- LinkedIn:[ [your-link](https://www.linkedin.com/in/mohamed-reda-800085406?utm_source=share_via&utm_content=profile&utm_medium=member_android)](https://www.linkedin.com/in/mohamed-reda-800085406?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 - Email: mohamedrhasanin@gmail.com
