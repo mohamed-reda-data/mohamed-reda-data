@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Mohamed Reda 👋
 
-<!--
-**mohamed-reda-data/mohamed-reda-data** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+BIS student at MUST, interested in data and web development, based in Cairo, Egypt.
 
-Here are some ideas to get you started:
+## 🛠️ Skills
+- Languages: Python, SQL, HTML/CSS, JavaScript
+- Tools: Git, Excel, Power BI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Projects
+- **Project name**: one-line description
+
+## 📫 Contact
+- LinkedIn: [your-link](https://www.linkedin.com/in/mohamed-reda-800085406?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+- Email: mohamedrhasanin@gmail.com
